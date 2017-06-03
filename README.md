@@ -7,3 +7,8 @@ These instructions will get you a copy of the project up and running on your loc
 1. Download a .zip file of the project
 2. Open html file, which will open the project in a browser
 
+## Technologies Used
+
+HTML
+CSS
+JavaScript
